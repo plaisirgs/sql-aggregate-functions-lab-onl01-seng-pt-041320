@@ -1,7 +1,7 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. MIN & MAX TOTAL AVERAGE 
 
 def highest_student_gpa
-  "SELECT MAX(highest_student_gpa) FROM 
+  "SELECT MAX()
 end
 
 def lowest_student_gpa
